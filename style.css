@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(10,10,10);
+}
+#chart, #mapview {
+  width: 800px;
+  margin: auto;
+ }
+#mapview {
+  height: 350px;
+  margin-bottom: 30px;
+}
+.aqua {
+  fill: aqua;
+}
